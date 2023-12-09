@@ -3,8 +3,6 @@
 # DeBankChain - DeBank layer 2 solution
 
 The DeBankChain is the Layer 2 scaling solution powered by [bedrock version](https://community.optimism.io/docs/developers/bedrock/) of Optimism OP Stack.
-
-
 ## Features
 
 Besides the [differentiators of bedrock](https://community.optimism.io/docs/developers/bedrock/differences/), DeBankChain is the solution that we aim to provide the better optimistic rollup solution.
